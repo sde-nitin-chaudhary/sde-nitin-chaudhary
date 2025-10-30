@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sde-nitin-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sde-nitin-chaudhary" /> </p>
 
-- 💬 Ask me about **Software Development AND Data Structures & Algorithms**
+- 💬 Ask me about **Software Development AND Problem Solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
