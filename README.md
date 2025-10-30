@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Chaudhary</h1>
-<h3 align="center">A passionate Software Engineer at Ciena India Pvt. Ltd., with expertise in Competitive Programming, Web & App Development, and a strong enthusiasm for Data Structures & Algorithms.</h3>
+<h3 align="center">A passionate Software Engineer at Ciena India Pvt. Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sde-nitin-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sde-nitin-chaudhary" /> </p>
 
