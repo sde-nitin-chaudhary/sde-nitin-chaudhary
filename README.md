@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitinchaudhary7290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/alltimecodernc/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <!-- LeetCode Profile: Gated until Knight Tag unlock -->
+  <!-- <a href="https://leetcode.com/u/alltimecodernc/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> -->
   <a href="mailto:nitinchaudhary7290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -12,9 +13,10 @@
 ### ⚡ About Me
 
 - 💻 **Systems & Backend:** SDE at **Ciena**, developing high-throughput networking services, low-latency microservices, and telemetry pipelines in **Modern C++ (C++17/20)** & **Python**.
-- 🏆 **Competitive Programming:** **ICPC Regionalist (AIR 56)** | **LeetCode Rating 1843** (Top 6% Globally, 800+ solved).
+- 🏆 **Competitive Programming:** **ICPC Regionalist (AIR 56)** — Asia West Continent Finalist.
+- 🧩 **Algorithmic Problem Solving:** 800+ problems solved across Trees, Dynamic Programming, Graphs & Range Queries.
 - 🛠️ **Architecture Focus:** Redis RESP2 wire protocol, Consistent Hashing rings, multi-threaded POSIX socket I/O, cache eviction (LRU/LFU), and distributed architectures.
-- 🎯 **Active Target:** Scaling robust, fault-tolerant distributed infrastructure and high-throughput systems.
+- 🎯 **Active Target:** Designing robust, fault-tolerant distributed infrastructure and high-throughput systems.
 
 ---
 
@@ -35,6 +37,9 @@
 ### 📊 Engineering & Language Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sde-nitin-chaudhary&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Nitin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sde-nitin-chaudhary&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sde-nitin-chaudhary&show_icons=true&theme=github_dark&rank_icon=github" alt="Nitin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sde-nitin-chaudhary&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
 </p>
