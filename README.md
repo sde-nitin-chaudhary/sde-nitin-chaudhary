@@ -37,9 +37,9 @@
 ### 📊 Engineering & Language Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sde-nitin-chaudhary&show_icons=true&theme=github_dark&rank_icon=github" alt="Nitin's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sde-nitin-chaudhary&show_icons=true&theme=github_dark" alt="Nitin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sde-nitin-chaudhary&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sde-nitin-chaudhary&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
 </p>
